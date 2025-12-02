@@ -10,10 +10,8 @@
 - 📌 Software Engineer (Júnior), focado em integrações, automações e desenvolvimento web.  
 - 🧑‍💻 Trabalhando com **Node.js, TypeScript, JavaScript, React.js** e APIs REST.  
 - 🔗 Experiência com Bitrix24, Make (Integromat), consumo de JSON e criação de rotinas inteligentes.  
-- 🐧 Administrador de VPS Ubuntu, deploy de aplicações, bancos de dados e servidores web.  
-- 🧠 Sempre estudando e evoluindo nas tecnologias modernas do ecossistema JavaScript.  
-- 🐈 Confira meus projetos no GitHub: **github.com/cassmach**
-
+- 🐧 Administrador de VPS Ubuntu, deploy de aplicações, bancos de dados e servidores web.
+- 
 ---
 
 ### 💻 Main Skills
