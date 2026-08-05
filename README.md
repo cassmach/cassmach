@@ -111,22 +111,6 @@
 
 ---
 
-## 📈 Additional Experience
-
-- Team management and technical leadership
-- Software architecture and design
-- Requirements gathering
-- Code review and best practices
-- N2/N3 technical support
-- Linux server administration
-- 30+ applications/sites management
-- Infrastructure management
-- High-availability API development
-- System integration and automation
-- Process automation
-- Continuous improvement and optimization
-
----
 
 ### 🤝 Connect With Me
 
