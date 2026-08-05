@@ -128,6 +128,5 @@
 
 <br>
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=cassmach&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=977C36FF&height=120&section=footer" />
